@@ -1,1 +1,1 @@
-# Nombres-de-los-integrantes
+Nicolas Ernesto Alfonso Quitian, Martha Lucía Hernández Quesada
