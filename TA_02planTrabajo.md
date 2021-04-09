@@ -27,6 +27,7 @@ informe 09:
 
 Desarrollo de funciones para el control remoto de temperatura y humedad según lo requiera la incubadora
 Creación del backend (Python)*
+
 Aplicación con todas las funcionalidades creadas y corriendo.
 
 informe 10: 
