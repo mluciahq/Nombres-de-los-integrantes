@@ -1,7 +1,9 @@
 informe 03: 
 
 Diseño de funcionalidades (básicas y avanzadas)
+
 Funcionalidades básicas de la aplicación sin registro
+
 Funcionalidades avanzadas de la aplicación con registro
 
 informe 04: 
