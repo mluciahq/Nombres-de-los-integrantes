@@ -21,11 +21,14 @@ informe 07:
 Conexión de módulos de raspberry (temperatura, humedad, cámara web) y recepción de datos en la aplicación 
 
 informe 08: 
+
 Reconocimiento de colonias bacterianas en cultivos sólidos (cajas de petri) y desarrollo de la liberia para diferenciar el radio de las colonias en las imágenes y así determinar tasa de crecimiento
 informe 09: 
+
 Desarrollo de funciones para el control remoto de temperatura y humedad según lo requiera la incubadora
 Creación del backend (Python)*
 Aplicación con todas las funcionalidades creadas y corriendo.
 
 informe 10: 
+
 Aplicación funcional que ejecuta y responde a las expectativas con las que fue creada.
