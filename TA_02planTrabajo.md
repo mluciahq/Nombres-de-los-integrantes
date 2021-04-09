@@ -18,6 +18,8 @@ Estructurar base de datos de instrumentos e insumos de laboratorio
 informe 06: 
 
 Desarrollo de libreria de manejo de los datos complejos (imagenes con cadenas de texto) dentro de la app
+
+
 informe 07: 
 
 Conexión de módulos de raspberry (temperatura, humedad, cámara web) y recepción de datos en la aplicación 
@@ -25,6 +27,7 @@ Conexión de módulos de raspberry (temperatura, humedad, cámara web) y recepci
 informe 08: 
 
 Reconocimiento de colonias bacterianas en cultivos sólidos (cajas de petri) y desarrollo de la liberia para diferenciar el radio de las colonias en las imágenes y así determinar tasa de crecimiento
+
 informe 09: 
 
 Desarrollo de funciones para el control remoto de temperatura y humedad según lo requiera la incubadora
