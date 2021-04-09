@@ -1,12 +1,15 @@
 informe 03: 
+
 Diseño de funcionalidades (básicas y avanzadas)
 Funcionalidades básicas de la aplicación sin registro
 Funcionalidades avanzadas de la aplicación con registro
 
 informe 04: 
+
 Diseño general de la aplicación (disposición de los botones de opciones)
 
 informe 05: 
+
 Diseño de registro y login de usuario
 Estructurar base de datos de instrumentos e insumos de laboratorio
 
